@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights and generated files
+Checkpoint/
+Loras/
+Loras_YARN/
+output/
+*.safetensors
